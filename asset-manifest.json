@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Intranet-react/static/css/main.a8d89532.chunk.css",
+    "main.js": "/Intranet-react/static/js/main.763746d6.chunk.js",
+    "main.js.map": "/Intranet-react/static/js/main.763746d6.chunk.js.map",
+    "runtime-main.js": "/Intranet-react/static/js/runtime-main.cc37a83b.js",
+    "runtime-main.js.map": "/Intranet-react/static/js/runtime-main.cc37a83b.js.map",
+    "static/js/2.926c9598.chunk.js": "/Intranet-react/static/js/2.926c9598.chunk.js",
+    "static/js/2.926c9598.chunk.js.map": "/Intranet-react/static/js/2.926c9598.chunk.js.map",
+    "index.html": "/Intranet-react/index.html",
+    "precache-manifest.a9a4301c78265d8f97e408bb541832d0.js": "/Intranet-react/precache-manifest.a9a4301c78265d8f97e408bb541832d0.js",
+    "service-worker.js": "/Intranet-react/service-worker.js",
+    "static/css/main.a8d89532.chunk.css.map": "/Intranet-react/static/css/main.a8d89532.chunk.css.map",
+    "static/js/2.926c9598.chunk.js.LICENSE": "/Intranet-react/static/js/2.926c9598.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc37a83b.js",
+    "static/js/2.926c9598.chunk.js",
+    "static/css/main.a8d89532.chunk.css",
+    "static/js/main.763746d6.chunk.js"
+  ]
+}
